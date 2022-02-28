@@ -17,7 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/MarcBHaidar/Profile-card-component/blob/main/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/Profile-card-component/blob/main/images/mobile-screenshot.jpg)
 
 
 
